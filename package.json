@@ -1,0 +1,21 @@
+{
+  "name": "x-forwarded-from-hapi",
+  "version": "0.0.0",
+  "description": "Get the correct x-forwarded-* headers, as implemented by h2o2",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "keywords": [
+    "hapi",
+    "x-forwarded",
+    "x-forwarded-for"
+  ],
+  "author": "Spencer Alger <email@spalger.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "eslint": "^1.9.0",
+    "mocha": "^2.3.3"
+  }
+}
