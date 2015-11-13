@@ -17,5 +17,16 @@
     "chai": "^3.4.1",
     "eslint": "^1.9.0",
     "mocha": "^2.3.3"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spalger/x-forwarded-from-hapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spalger/x-forwarded-from-hapi/issues"
+  },
+  "homepage": "https://github.com/spalger/x-forwarded-from-hapi#readme"
 }
