@@ -1,6 +1,6 @@
 {
   "name": "x-forwarded-from-hapi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get the correct x-forwarded-* headers, as implemented by h2o2",
   "main": "index.js",
   "scripts": {
